@@ -50,4 +50,12 @@ body{
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
     cursor: pointer;
    
- }                                  
+ }   
+ 
+ .equal{
+    background: #131212;
+ }
+
+ .operator{
+    color: #09db67;
+ }
